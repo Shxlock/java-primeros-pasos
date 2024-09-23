@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e95fcf67-5fb8-45a9-a639-9c6914f1306a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/javaDesafio/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaDesafio/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaDesafio/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaDesafio/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaDesafio/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaDesafio/javaDesafio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaDesafio/src/desafio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primeraClase/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primeraClase/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primeraClase/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primeraClase/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primeraClase/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primeraClase/primeraClase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primeraClase/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primeraClase/src/PrimeraClase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primeraClase/src/conversorFarenheit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primeraClase/src/primerEjercicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primerprograma/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primerprograma/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primerprograma/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primerprograma/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primerprograma/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primerprograma/primerprograma.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primerprograma/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/javaDesafio" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2m5FYII7f2jRMAxGv0ADkEbB0xX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/carlos/Desktop/java&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e95fcf67-5fb8-45a9-a639-9c6914f1306a" name="Changes" comment="" />
+      <created>1726358585051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726358585051</updated>
+    </task>
+    <servers />
+  </component>
+</project>
